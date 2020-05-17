@@ -557,4 +557,4 @@ ScriptsOnlyBuild:
   platform: 2
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Alisa/RGBFootball/Builds/MacBuild.app
+  playerPath: C:/Users/Alisa/RGBFootball/Builds.app
